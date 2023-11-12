@@ -29,8 +29,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francryptook&show_icons=true&locale=en" alt="francryptook" /></p>
 
-- Link to the code of my script for TradingView platform with my own strategy for cryptocurrencies in the image below
+- To see the code of my script in PineScript language for TradingView platform with my own strategy for cryptocurrencies, click on the image below ⬇️
 
-<h1 align="center">
+<h1 align="left">
 <a href="https://www.tradingview.com/script/6t3JfRXa/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/J03BDn6s/Francrypto-strategy.png" alt="c" /> </a>
 </h1>
