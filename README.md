@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I am Francisco Guido Santillan</h1>
+<h3 align="center">The Francrypto® SMM founder, a project about financial and technology education with cryptoassets</h3>
 
-<!--
-**francryptoOk/francryptoOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Here you could find my own script as well as those projects regarding my education at 42 Madrid 😁
+- 📫 How to reach me **santillan.fg@gmail.com**
 
-Here are some ideas to get you started:
+<h1 align="center">
+ <img src="https://i.postimg.cc/sgmXz3pj/fondo-github.png" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/@francrypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@francrypto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/francisco-guido-santillan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-guido-santillan" height="30" width="40" /></a>
+<a href="https://twitter.com/francrypto_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="francrypto_" height="30" width="40" /></a>
+</p>
+
+![YouTube Channel Suscribers](https://img.shields.io/youtube/channel/subscribers/UCr_jA5xBsqdZt7mn9oYJqUA)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francryptook&show_icons=true&locale=en&layout=compact" alt="francryptook" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francryptook&show_icons=true&locale=en" alt="francryptook" /></p>
+
