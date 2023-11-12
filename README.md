@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Francisco Guido Santillan</h1>
 <h3 align="center">The Francrypto® SMM founder, a project about financial and technology education with cryptoassets</h3>
 
-- Here you could find my own script for trading 🖥️📈📉 as well as those projects regarding my education at 42 Madrid 📚⌨️😁
+- Here you can find my own script for trading 🖥️📈📉 as well as those projects regarding my education at 42 Madrid 📚⌨️😁
 - You can reach me: **santillan.fg@gmail.com** 📫
 
 <h1 align="center">
