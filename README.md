@@ -2,7 +2,7 @@
 <h3 align="center">The Francrypto® SMM founder, a project about financial and technology education with cryptoassets</h3>
 
 - Here you can find my own script for trading 🖥️📈📉 as well as those projects regarding my education at 42 Madrid 📚⌨️😁
-- You can reach me: **santillan.fg@gmail.com** 📫
+- You can reach me: **fsantill@ucm.es** or **fsantillan@derecho.uba.ar** 📫
 
 <h1 align="center">
  <img src="https://i.postimg.cc/sgmXz3pj/fondo-github.png" />
