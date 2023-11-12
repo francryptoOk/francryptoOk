@@ -34,3 +34,7 @@
 <h1 align="center">
 <a href="https://www.tradingview.com/script/6t3JfRXa/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Kv1vK414/Francrypto-strategy.png" alt="c" /> </a>
 </h1>
+
+- And finally, don't forget to Keep calm and trust me, I'm a Lawyer 🏛️⚖️ <h1 align="center">
+  ![42-don-t-panic.jpg](https://i.postimg.cc/R0LPS9fG/42-don-t-panic.jpg)
+</h1>
