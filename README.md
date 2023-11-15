@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Overpass&weight=800&size=35&pause=1000&color=F7B52E&random=false&width=700&height=70&lines=Hi+and+welcome+to+my+GitHub!;I+am+Francisco+Guido+Santillan+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+%E2%9A%96%EF%B8%8F+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Overpass&weight=800&size=35&pause=1000&color=ff7538&random=false&width=700&height=70&lines=Hi+and+welcome+to+my+GitHub!;I+am+Francisco+Guido+Santillan+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+%E2%9A%96%EF%B8%8F+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;" />
 </h1>
 
 <h3 align="center">The Francrypto® SMM founder, a project about financial and technology education with cryptoassets</h3>
