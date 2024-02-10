@@ -5,7 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Overpass&weight=800&size=35&pause=1000&color=ff7538&random=false&width=700&height=70&lines=I+am+Francisco+Guido+Santillan!;Be+welcome+to+my+GitHub!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+%E2%9A%96%EF%B8%8F+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;" />
 </h1>
 
-<h3 align="right">The Francrypto® SMM founder, a project about financial and technology education with cryptoassets</h3>
+<h3 align="left">I am Criminal Lawyer shifting my focus to Cybersecurity and learning to code at @ 42 Telefónica</h3>
+<h3 align="left">The founder of Francrypto® SMM project, about financial and technology education with cryptoassets</h3>
 
 - Here you can find the projects regarding my education at 42 Madrid 📚⌨️😁 as well as my own script for trading 🖥️📈📉
 - You can contact me here: **fsantill@ucm.es** or **fsantillan@derecho.uba.ar** 📫
