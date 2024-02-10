@@ -16,7 +16,7 @@
 
 🖥️📈📉 As well as my own script for trading 
 
-📫 You can contact me via email here: **fsantill@ucm.es** or **fsantillan@derecho.uba.ar**
+📫 You can contact me via email here: fsantill@ucm.es or fsantillan@derecho.uba.ar
 <br/>
 </pre>
 
