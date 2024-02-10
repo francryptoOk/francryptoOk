@@ -9,9 +9,9 @@
 </pre>
 
 <pre><h3 align="center">🔎 Here you can find</h3>
-📚⌨️😁 Projects I developed during my education at 42 Madrid
+📚⌨️😁 Repositories to the Projects I developed during my education at 42 Madrid
 🖥️📈📉 As well as the Source Code my own Script for trading
-📹📼📺 Finally, you can access my best videos on YouTube
+📹📼📺 Finally, you can access my Best Videos on YouTube
  
 📫 You can contact me via email here: fsantill@ucm.es or fsantillan@derecho.uba.ar
 <br/>
