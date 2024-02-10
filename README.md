@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img width='40%' img align="center" src="https://github-readme-stats.vercel.app/api?username=francryptook&show_icons=true&locale=en" alt="francryptook" /></p>
 
-📊 To see the code of my script in PineScript language for TradingView platform (with my own strategy for cryptocurrencies 🔗🪙), please first follow me 😄 and then click on the image below ⬇️
+📊 To see my Script in PineScript language for TradingView platform (with my own strategy for cryptocurrencies 🔗🪙), please first follow me 😄 and then click on the image below ⬇️
 
 <h1 align="left">
 <a href="https://www.tradingview.com/script/6t3JfRXa/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Kv1vK414/Francrypto-strategy.png" alt="c" /> </a>
