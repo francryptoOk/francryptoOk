@@ -13,7 +13,7 @@
 🖥️📈📉 As well as the Source Code of my Script for trading
 📹📼📺 Finally, you can access my Best Videos on YouTube
  
-📫 You can contact me via email here: fsantill@ucm.es or fsantillan@derecho.uba.ar
+📫 You can contact me via email: fsantill@ucm.es or fsantillan@derecho.uba.ar
 <br/>
 </pre>
 
