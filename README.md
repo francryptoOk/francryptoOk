@@ -43,6 +43,12 @@
 <a href='https://youtu.be/hQRReKaBWBI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hQRReKaBWBI/mqdefault.jpg' alt='¡Aprende a usar mi Indicador!' />
 </a>
+<a href='https://youtu.be/FVAU-L7EvIc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/FVAU-L7EvIc/mqdefault.jpg' alt='¡Curso gratuito de criptomonedas!' />
+</a>
+<a href='https://youtu.be/LYMolMqm6NU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/LYMolMqm6NU/mqdefault.jpg' alt='¡Gestiona tu riesgo!' />
+</a>
 
 - And finally, don't forget to Keep calm and trust me, I'm a Lawyer 🏛️⚖️ <h1 align="center">
   ![42-don-t-panic.jpg](https://i.postimg.cc/R0LPS9fG/42-don-t-panic.jpg)
