@@ -24,7 +24,7 @@
 
 - To see the code of my script in PineScript language for TradingView platform (with my own strategy for cryptocurrencies 🔗🪙), please first follow me 😄 and then click on the image below ⬇️
 
-<h1 align="center">
+<h1 align="left">
 <a href="https://www.tradingview.com/script/6t3JfRXa/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Kv1vK414/Francrypto-strategy.png" alt="c" /> </a>
 </h1>
 
