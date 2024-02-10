@@ -8,13 +8,13 @@
 <h3 align="left">As a Criminal Lawyer, I am shifting my focus to Cybersecurity and learning to code at @42 Telefónica</h3>
 <h3 align="left">I am the founder of the Francrypto® SMM project, which focuses on financial and technology education with cryptoassets</h3>
 
-Here you can find:
+<pre><h3 align="center">🔎 Here you can find</h3>
 
 📚⌨️😁 Those projects related to my education at 42 Madrid
 
 🖥️📈📉 As well as my own script for trading 
 
-📫 You can contact me via email here: **fsantill@ucm.es** or **fsantillan@derecho.uba.ar** 
+📫 You can contact me via email here: **fsantill@ucm.es** or **fsantillan@derecho.uba.ar**</pre>
 
 <h3 align="left">🔢 Languages and Tools:</h3>
 <p align="left">
