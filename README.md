@@ -62,7 +62,8 @@
 
 <br/>
 <br/>
+<h3 align="center">🤝 And finally, don't forget to Keep calm and trust me, I'm a Lawyer 🏛️⚖️ </h3>
 
-🤝 And finally, don't forget to Keep calm and trust me, I'm a Lawyer 🏛️⚖️ <h1 align="center">
+<br/><h1 align="center">
   ![42-don-t-panic.jpg](https://i.postimg.cc/R0LPS9fG/42-don-t-panic.jpg)
 </h1>
