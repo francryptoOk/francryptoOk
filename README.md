@@ -10,7 +10,8 @@
 
 <pre><h3 align="center">🔎 Here you can find</h3>
 📚⌨️😁 Those projects related to my education at 42 Madrid
-🖥️📈📉 As well as my own script for trading 
+🖥️📈📉 As well as my own script for trading
+ 
 📫 You can contact me via email here: fsantill@ucm.es or fsantillan@derecho.uba.ar
 <br/>
 </pre>
