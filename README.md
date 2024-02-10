@@ -50,13 +50,13 @@
 
 ### 🎦 Best videos (in Spanish) of my [Youtube channel](https://youtube.com/c/@francrypto?sub_confirmation=1)
 
-<a href='https://youtu.be/hQRReKaBWBI?sub_confirmation=1' target='_blank'>
+<a href='https://youtu.be/hQRReKaBWBI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hQRReKaBWBI/mqdefault.jpg' alt='¡Aprende a usar mi Indicador!' />
 </a>
-<a href='https://youtu.be/FVAU-L7EvIc?sub_confirmation=1' target='_blank'>
+<a href='https://youtu.be/FVAU-L7EvIc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FVAU-L7EvIc/mqdefault.jpg' alt='¡Curso gratuito de criptomonedas!' />
 </a>
-<a href='https://youtu.be/LYMolMqm6NU?sub_confirmation=1' target='_blank'>
+<a href='https://youtu.be/LYMolMqm6NU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LYMolMqm6NU/mqdefault.jpg' alt='¡Gestiona tu riesgo!' />
 </a>
 
