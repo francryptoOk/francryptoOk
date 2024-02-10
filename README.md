@@ -18,8 +18,8 @@
 </pre>
 
 <br/>
-<h3 align="left">🔢 Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">🔢 Languages and Tools:</h3>
+<p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -37,19 +37,20 @@
 
 <br/>
 
-<h3 align="left">✴️ Connect with me:</h3>
-<p align="left">
+<h3 align="center">✴️ Connect with me</h3>
+<p align="center">
 <a href="https://www.youtube.com/c/@francrypto?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@francrypto" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/francisco-guido-santillan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-guido-santillan" height="30" width="40" /></a>
 <a href="https://twitter.com/francrypto_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="francrypto_" height="30" width="40" /></a>
 </p>
 
-![YouTube Channel Suscribers](https://img.shields.io/youtube/channel/subscribers/UCr_jA5xBsqdZt7mn9oYJqUA)
-
 <br/>
 
 ### 🎦 Best videos (in Spanish) of my [Youtube channel](https://youtube.com/c/@francrypto?sub_confirmation=1)
 
+![YouTube Channel Suscribers](https://img.shields.io/youtube/channel/subscribers/UCr_jA5xBsqdZt7mn9oYJqUA)
+<br/>
+<br/>
 <a href='https://youtu.be/hQRReKaBWBI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hQRReKaBWBI/mqdefault.jpg' alt='¡Aprende a usar mi Indicador!' />
 </a>
@@ -60,8 +61,6 @@
   <img width='30%' src='https://img.youtube.com/vi/LYMolMqm6NU/mqdefault.jpg' alt='¡Gestiona tu riesgo!' />
 </a>
 
-<br/>
-<br/>
 <h3 align="center">🤝 And finally, don't forget to Keep calm and trust me, I'm a Lawyer 🏛️⚖️ </h3>
 
 <br/><h1 align="center">
