@@ -8,14 +8,19 @@
 <h3 align="left">As a Criminal Lawyer, I am shifting my focus to Cybersecurity and learning to code at @42 Telefónica</h3>
 <h3 align="left">I am the founder of the Francrypto® SMM project, which focuses on financial and technology education with cryptoassets</h3>
 
+<br/>
+
 <pre><h3 align="center">🔎 Here you can find</h3>
 
 📚⌨️😁 Those projects related to my education at 42 Madrid
 
 🖥️📈📉 As well as my own script for trading 
 
-📫 You can contact me via email here: **fsantill@ucm.es** or **fsantillan@derecho.uba.ar**</pre>
+📫 You can contact me via email here: **fsantill@ucm.es** or **fsantillan@derecho.uba.ar**
+<br/>
+</pre>
 
+<br/>
 <h3 align="left">🔢 Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -23,7 +28,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
 <p><img width='35%' img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francryptook&show_icons=true&locale=en&layout=compact" alt="francryptook" /></p>
 
 <p>&nbsp;<img width='40%' img align="center" src="https://github-readme-stats.vercel.app/api?username=francryptook&show_icons=true&locale=en" alt="francryptook" /></p>
@@ -34,6 +38,8 @@
 <a href="https://www.tradingview.com/script/6t3JfRXa/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Kv1vK414/Francrypto-strategy.png" alt="c" /> </a>
 </h1>
 
+<br/>
+
 <h3 align="left">✴️ Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/@francrypto?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@francrypto" height="30" width="40" /></a>
@@ -42,6 +48,8 @@
 </p>
 
 ![YouTube Channel Suscribers](https://img.shields.io/youtube/channel/subscribers/UCr_jA5xBsqdZt7mn9oYJqUA)
+
+<br/>
 
 ### 📹 Best videos (in Spanish) of my [Youtube channel](https://youtube.com/c/@francrypto?sub_confirmation=1)
 
@@ -54,6 +62,9 @@
 <a href='https://youtu.be/LYMolMqm6NU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/LYMolMqm6NU/mqdefault.jpg' alt='¡Gestiona tu riesgo!' />
 </a>
+
+<br/>
+<br/>
 
 🤝 And finally, don't forget to Keep calm and trust me, I'm a Lawyer 🏛️⚖️ <h1 align="center">
   ![42-don-t-panic.jpg](https://i.postimg.cc/R0LPS9fG/42-don-t-panic.jpg)
