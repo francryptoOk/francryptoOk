@@ -9,8 +9,9 @@
 </pre>
 
 <pre><h3 align="center">🔎 Here you can find</h3>
-📚⌨️😁 Those projects related to my education at 42 Madrid
-🖥️📈📉 As well as my own script for trading
+📚⌨️😁 Projects I developed during my education at 42 Madrid
+🖥️📈📉 As well as the Source Code my own Script for trading
+📹📼📺 Finally, you can access my best videos on YouTube
  
 📫 You can contact me via email here: fsantill@ucm.es or fsantillan@derecho.uba.ar
 <br/>
@@ -47,7 +48,7 @@
 
 <br/>
 
-### 📹 Best videos (in Spanish) of my [Youtube channel](https://youtube.com/c/@francrypto?sub_confirmation=1)
+### 🎦 Best videos (in Spanish) of my [Youtube channel](https://youtube.com/c/@francrypto?sub_confirmation=1)
 
 <a href='https://youtu.be/hQRReKaBWBI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hQRReKaBWBI/mqdefault.jpg' alt='¡Aprende a usar mi Indicador!' />
