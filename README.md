@@ -10,7 +10,7 @@
 - Here you can find the projects regarding my education at 42 Madrid 📚⌨️😁 as well as my own script for trading 🖥️📈📉
 - You can contact me here: **fsantill@ucm.es** or **fsantillan@derecho.uba.ar** 📫
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔢 Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
@@ -22,13 +22,13 @@
 
 <p>&nbsp;<img width='40%' img align="center" src="https://github-readme-stats.vercel.app/api?username=francryptook&show_icons=true&locale=en" alt="francryptook" /></p>
 
-- To see the code of my script in PineScript language for TradingView platform (with my own strategy for cryptocurrencies 🔗🪙), please first follow me 😄 and then click on the image below ⬇️
+📊 To see the code of my script in PineScript language for TradingView platform (with my own strategy for cryptocurrencies 🔗🪙), please first follow me 😄 and then click on the image below ⬇️
 
 <h1 align="left">
 <a href="https://www.tradingview.com/script/6t3JfRXa/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Kv1vK414/Francrypto-strategy.png" alt="c" /> </a>
 </h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">✴️ Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/@francrypto?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@francrypto" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/francisco-guido-santillan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco-guido-santillan" height="30" width="40" /></a>
@@ -49,6 +49,6 @@
   <img width='30%' src='https://img.youtube.com/vi/LYMolMqm6NU/mqdefault.jpg' alt='¡Gestiona tu riesgo!' />
 </a>
 
-- And finally, don't forget to Keep calm and trust me, I'm a Lawyer 🏛️⚖️ <h1 align="center">
+🤝 And finally, don't forget to Keep calm and trust me, I'm a Lawyer 🏛️⚖️ <h1 align="center">
   ![42-don-t-panic.jpg](https://i.postimg.cc/R0LPS9fG/42-don-t-panic.jpg)
 </h1>
