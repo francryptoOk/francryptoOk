@@ -21,10 +21,12 @@
 <h3 align="center">🔢 Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.tradingview.com/pine-script-docs/en/v5/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://frizlabz.gallerycdn.vsassets.io/extensions/frizlabz/pinescript-v5-vscode/0.1.2/1706677835163/Microsoft.VisualStudio.Services.Icons.Default" alt="c" width="40" height="40"/> </a>
+<a href="https://www.tradingview.com/pine-script-docs/en/v5/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://frizlabz.gallerycdn.vsassets.io/extensions/frizlabz/pinescript-v5-vscode/0.1.2/1706677835163/Microsoft.VisualStudio.Services.Icons.Default" alt="pine script" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://www.vegascreativesoftware.com/es/vegas-pro/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/c/c9/Vegas_Pro_14.svg/revision/latest?cb=20230724025902" alt="sony vegas pro" width="40" height="40"/> </a>
+<a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/1024px-OBS_Studio_Logo.svg.png?20200101065316" alt="obs studio" width="40" height="40"/> </a>
 </p>
 <p><img width='35%' img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francryptook&show_icons=true&locale=en&layout=compact" alt="francryptook" /></p>
 
