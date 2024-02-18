@@ -2,7 +2,7 @@
  <img width='70%' img src="https://i.postimg.cc/sgmXz3pj/fondo-github.png" />
 </h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Overpass&weight=800&size=35&pause=1000&color=ff7538&random=false&width=700&height=70&lines=Hi+there,+Francisco+Guido+Santillan+here!;Feel+welcome+to+my+GitHub!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+%E2%9A%96%EF%B8%8F+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Overpass&weight=800&size=35&pause=1000&color=ff7538&random=false&width=700&height=70&lines=Hi+there,+Francisco+Guido+Santillán+here!;Feel+welcome+to+my+GitHub!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+%E2%9A%96%EF%B8%8F+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;" />
 </h1>
 
 <pre><h3 align="left">As a Criminal Lawyer, I am shifting my focus to Cybersecurity at @ 42 Telefónica</h3><h3 align="left">I am the founder of Francrypto®. A project of financial and technology education</h3>
