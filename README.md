@@ -18,7 +18,7 @@
 </pre>
 
 <br/>
-<h3 align="center">🔢 Languages and Tools:</h3>
+<h3 align="center">🔢 Languages, Tools and Stats:</h3>
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.tradingview.com/pine-script-docs/en/v5/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://frizlabz.gallerycdn.vsassets.io/extensions/frizlabz/pinescript-v5-vscode/0.1.2/1706677835163/Microsoft.VisualStudio.Services.Icons.Default" alt="pine script" width="40" height="40"/> </a>
@@ -27,10 +27,17 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.vegascreativesoftware.com/es/vegas-pro/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/c/c9/Vegas_Pro_14.svg/revision/latest?cb=20230724025902" alt="sony vegas pro" width="40" height="40"/> </a>
 <a href="https://obsproject.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/1024px-OBS_Studio_Logo.svg.png?20200101065316" alt="obs studio" width="40" height="40"/> </a>
+ <br/>
+ <br/>
+<a> 
+    <a href="https://github.com/francryptoOk"><img alt="Francrypto's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=francryptoOk&show_icons=true&include_all_commits=true&theme=calm&card_width=300" height="180px"/></a>
+    <a href="https://github.com/francryptoOk"><img alt="Francrypto's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=francryptoOk&langs_count=8&layout=compact&theme=calm&card_width=300" height="180px"/></a>
+    <br/>
+</a>
 </p>
-<p><img width='35%' img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francryptook&show_icons=true&locale=en&layout=compact" alt="francryptook" /></p>
 
-<p>&nbsp;<img width='40%' img align="center" src="https://github-readme-stats.vercel.app/api?username=francryptook&show_icons=true&locale=en" alt="francryptook" /></p>
+
+
 
 📊 To see my Script in PineScript language for TradingView platform (with my own strategy for cryptocurrencies 🔗🪙), please first follow me 😄 and then click on the image below ⬇️
 
