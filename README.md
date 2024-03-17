@@ -36,7 +36,10 @@
 </a>
 </p>
 
-📊 To see my Script in PineScript language for analyzing economic assets on the TradingView platform (with my financial strategy for cryptocurrencies 🔗🪙), please first follow me 😄 and then click on the image below ⬇️ ⬇️ ⬇️ ⬇️ ⬇️
+<pre><h3 align="center">📊 Francrypto Strategy v4.0</h3>
+To see my Script in PineScript language for analyzing economic assets on the
+TradingView platform (with my financial strategy for cryptocurrencies 🔗🪙)
+Please first follow me 😄 and then click on the image below ⬇️ ⬇️ ⬇️ ⬇️ ⬇️</pre>
 
 <h1 align="center">
 <a href="https://www.tradingview.com/script/6t3JfRXa/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Kv1vK414/Francrypto-strategy.png" alt="c" /> </a>
