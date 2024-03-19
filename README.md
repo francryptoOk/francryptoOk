@@ -38,7 +38,7 @@
 
 <pre><h3 align="center">📊 Francrypto Strategy v4.0</h3>
 To see my Script in PineScript language for analyzing economic assets on the
-TradingView platform (with my financial strategy for cryptocurrencies 🔗🪙)
+TradingView platform (with my financial strategy for cryptocurrencies 🔗)
 Please first follow me 😄 and then click on the image below ⬇️ ⬇️ ⬇️ ⬇️ ⬇️</pre>
 
 <h1 align="center">
